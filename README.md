@@ -48,6 +48,7 @@ This project serves as a foundation for future developments in assistive technol
 
 ## Articles published / References
 Hirshleifer, D., et al. (2013). Investment Decision-Making and Behavioral Economics in Financial Analysis. Journal of Financial Studies, vol. 7, no. 2.
+
 Gu, S., et al. (2020). Machine Learning for Financial Prediction: Implications for Investment. Finance Insights, vol. 15, no. 1.
 
 
